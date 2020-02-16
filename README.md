@@ -1,4 +1,4 @@
-# # # Me Coding Challenge # # #
+# # # ME Bank Coding Challenge # # #
 
 ## System Requirements
 JDK 1.8 or above
